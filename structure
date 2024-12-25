@@ -1,0 +1,11 @@
+portfolio/
+├── index.html          # Home Page
+├── projects.html       # Projects Page
+├── about.html          # About Me Page
+├── services.html       # Services Page
+├── assets/
+│   ├── css/
+│   │   └── style.css   # Styling file
+│   ├── js/
+│   │   └── script.js   # JavaScript (optional)
+│   └── images/         # Folder for images
